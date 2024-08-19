@@ -1,1 +1,4 @@
-# CRUD_Angular_Spring
+# CRUD USANDO ANGULAR Y SPRING BOOT
+Estos son los fuentes actualizados a agosto del 2024 usando Angular 18.1 la última versión usando standalone components
+Dentro de la carpeta "AngularExcersices\crudJavaSpringMysql\src\app\Service\script.sql" encontraras el scrip necesario listo para ejecutarlo en tu servidor MySQL o MariaDB, el cual creará la base de datos la tabla y le insertara algunos registros
+En el lado del servidor esta la carpeta proyecto para abrirla con NetBean, el proyecto esta creado usando la pagina https://start.spring.io/ en la cual se eligio:las especificaciones tal cual usando java 21 pero debes de actualizar tu version de java ya que incluso netbean lo requiere en mi caso instale la version de temurin pero puedes usar cualquir open jdk o incluso la de oracle, si tienes alguno problema solo hazmelo saber
